@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Homework","l":"Client"},{"p":"Homework","l":"ClientType"},{"p":"Homework","l":"Depot"},{"p":"Homework","l":"Main"},{"p":"Homework","l":"Problem"},{"p":"Homework","l":"Solution"},{"p":"Homework","l":"Tour"},{"p":"Homework","l":"Vehicle"}];updateSearchResults();
