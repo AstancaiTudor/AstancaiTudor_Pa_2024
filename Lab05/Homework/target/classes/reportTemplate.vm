@@ -1,0 +1,9 @@
+<html>
+<head>
+    <title>Raport Director</title>
+</head>
+<body>
+<h1>Raport pentru directorul: $directoryName</h1>
+    <p>$files</p>
+</body>
+</html>
